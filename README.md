@@ -1,5 +1,5 @@
-Nama : Muhammad Alfi Dwi Yulianto
-Nim : A11.2021.13293
+Nama : Jeremy Bagus Sutrisno
+Nim : A11.2021.13598
 
 # ubah nama folder (hapus -main) setelah di ekstrak menjadi : Bk-UDINUS-POLIKLINIK
 
